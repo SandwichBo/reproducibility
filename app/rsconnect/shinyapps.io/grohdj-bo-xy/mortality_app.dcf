@@ -1,0 +1,10 @@
+name: mortality_app
+title: Mortality Model App
+username: grohdj-bo-xy
+account: grohdj-bo-xy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14903084
+bundleId: 10421518
+url: https://grohdj-bo-xy.shinyapps.io/mortality_app/
+version: 1
